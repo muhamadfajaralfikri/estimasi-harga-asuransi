@@ -4,7 +4,7 @@
 
 ### Nim : 211351087
 
-### Kelas : MALAM B
+### Kelas : MALAM Bb
 
 ## Domain Proyek : Estimasi harga asuransi
 
