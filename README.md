@@ -4,7 +4,7 @@
 
 ### Nim : 211351087
 
-### Kelas : MALAM Bb
+### Kelas : MALAM B
 
 ## Domain Proyek : Estimasi harga asuransi
 
@@ -205,3 +205,4 @@ Didapatkan hasil sebesar 0.7267247299878619. Dengan hasil seperti itu maka model
 ## Deployment
 
 Link Streamlit:
+https://estimasi-harga-asuransi.streamlit.app/
